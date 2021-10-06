@@ -1,4 +1,4 @@
-# 스택 (티어 : 실버 4)
+# 스택 [ 티어 : 실버 4 ]
 # https://www.acmicpc.net/problem/10828
 
 import sys

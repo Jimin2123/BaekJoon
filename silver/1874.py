@@ -1,4 +1,4 @@
-# 스택 수열 (티어 : 실버 3)
+# 스택 수열 [ 티어 : 실버 3 ]
 # https://www.acmicpc.net/problem/1874
 
 from sys import stdin
